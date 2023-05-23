@@ -1,0 +1,5 @@
+IP: 158.160.64.255;
+name_taski: https://komhost.hopto.org/;
+name_kittygram: https://kittygram.freedynamicdns.net/;
+login: admin;
+password: kim2005;
