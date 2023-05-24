@@ -1,5 +1,5 @@
 server {
-    server_name 158.160.64.255 komhost.hopto.org;
+    server_name komhost.hopto.org;
 
     location /api/ {
         proxy_pass http://127.0.0.1:8000;
@@ -39,7 +39,7 @@ server {
 
 
 server {
-        server_name 158.160.64.255 kittygram.freedynamicdns.net;
+        server_name kittygram.freedynamicdns.net;
 
 
         location /api/ {
