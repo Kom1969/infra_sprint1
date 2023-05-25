@@ -135,6 +135,8 @@ media/
 .media
 
 
+static_backend/
+
 # FRONTEND
 
 # dependencies
